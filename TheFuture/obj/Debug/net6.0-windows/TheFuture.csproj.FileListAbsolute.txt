@@ -1,0 +1,29 @@
+D:\Education\C#\TheFutureV2.0\TheFuture\TheFuture\bin\Debug\net6.0-windows\TheFuture.exe
+D:\Education\C#\TheFutureV2.0\TheFuture\TheFuture\bin\Debug\net6.0-windows\TheFuture.deps.json
+D:\Education\C#\TheFutureV2.0\TheFuture\TheFuture\bin\Debug\net6.0-windows\TheFuture.runtimeconfig.json
+D:\Education\C#\TheFutureV2.0\TheFuture\TheFuture\bin\Debug\net6.0-windows\TheFuture.dll
+D:\Education\C#\TheFutureV2.0\TheFuture\TheFuture\bin\Debug\net6.0-windows\TheFuture.pdb
+D:\Education\C#\TheFutureV2.0\TheFuture\TheFuture\obj\Debug\net6.0-windows\TheFuture.csproj.AssemblyReference.cache
+D:\Education\C#\TheFutureV2.0\TheFuture\TheFuture\obj\Debug\net6.0-windows\MainWindow.g.cs
+D:\Education\C#\TheFutureV2.0\TheFuture\TheFuture\obj\Debug\net6.0-windows\App.g.cs
+D:\Education\C#\TheFutureV2.0\TheFuture\TheFuture\obj\Debug\net6.0-windows\TheFuture_MarkupCompile.cache
+D:\Education\C#\TheFutureV2.0\TheFuture\TheFuture\obj\Debug\net6.0-windows\TheFuture_MarkupCompile.lref
+D:\Education\C#\TheFutureV2.0\TheFuture\TheFuture\obj\Debug\net6.0-windows\MainWindow.baml
+D:\Education\C#\TheFutureV2.0\TheFuture\TheFuture\obj\Debug\net6.0-windows\TheFuture.g.resources
+D:\Education\C#\TheFutureV2.0\TheFuture\TheFuture\obj\Debug\net6.0-windows\TheFuture.GeneratedMSBuildEditorConfig.editorconfig
+D:\Education\C#\TheFutureV2.0\TheFuture\TheFuture\obj\Debug\net6.0-windows\TheFuture.AssemblyInfoInputs.cache
+D:\Education\C#\TheFutureV2.0\TheFuture\TheFuture\obj\Debug\net6.0-windows\TheFuture.AssemblyInfo.cs
+D:\Education\C#\TheFutureV2.0\TheFuture\TheFuture\obj\Debug\net6.0-windows\TheFuture.csproj.CoreCompileInputs.cache
+D:\Education\C#\TheFutureV2.0\TheFuture\TheFuture\obj\Debug\net6.0-windows\TheFuture.dll
+D:\Education\C#\TheFutureV2.0\TheFuture\TheFuture\obj\Debug\net6.0-windows\refint\TheFuture.dll
+D:\Education\C#\TheFutureV2.0\TheFuture\TheFuture\obj\Debug\net6.0-windows\TheFuture.pdb
+D:\Education\C#\TheFutureV2.0\TheFuture\TheFuture\obj\Debug\net6.0-windows\TheFuture.genruntimeconfig.cache
+D:\Education\C#\TheFutureV2.0\TheFuture\TheFuture\obj\Debug\net6.0-windows\ref\TheFuture.dll
+D:\Education\C#\TheFutureV2.0\TheFuture\TheFuture\bin\Debug\net6.0-windows\FontAwesome.Sharp.dll
+D:\Education\C#\TheFutureV2.0\TheFuture\TheFuture\obj\Debug\net6.0-windows\TheFuture.csproj.CopyComplete
+D:\Education\C#\TheFutureV2.0\TheFuture\TheFuture\obj\Debug\net6.0-windows\App.baml
+D:\Education\C#\TheFutureV2.0\TheFuture\TheFuture\obj\Debug\net6.0-windows\User Controls\InfoCard.baml
+D:\Education\C#\TheFutureV2.0\TheFuture\TheFuture\obj\Debug\net6.0-windows\User Controls\InfoCard.g.cs
+D:\Education\C#\TheFutureV2.0\TheFuture\TheFuture\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+D:\Education\C#\TheFutureV2.0\TheFuture\TheFuture\bin\Debug\net6.0-windows\LiveCharts.dll
+D:\Education\C#\TheFutureV2.0\TheFuture\TheFuture\bin\Debug\net6.0-windows\LiveCharts.Wpf.dll
