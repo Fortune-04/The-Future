@@ -1,12 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "WUfLraVvMvAdKuRV/QKJuTnaq4rwalv2FFtA1I5JnnFNDzO5bXjOmn5lwD7ostOJYHu7qo7GjR7eIrq5SKdc9Q==",
+  "dgSpecHash": "BF09EVY1GzoSj2ZK5E0pVYzAiSkAquw79HlaoSYBAzEDLlFtuWH8SFxNp1FJFJUW8kHJ4tOgYwqDaXkTcknjnA==",
   "success": true,
   "projectFilePath": "D:\\Education\\C#\\TheFutureV2.0\\TheFuture\\TheFuture\\TheFuture.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Fortune\\.nuget\\packages\\fontawesome.sharp\\5.15.4\\fontawesome.sharp.5.15.4.nupkg.sha512",
     "C:\\Users\\Fortune\\.nuget\\packages\\livecharts\\0.9.7\\livecharts.0.9.7.nupkg.sha512",
-    "C:\\Users\\Fortune\\.nuget\\packages\\livecharts.wpf\\0.9.7\\livecharts.wpf.0.9.7.nupkg.sha512"
+    "C:\\Users\\Fortune\\.nuget\\packages\\livecharts.wpf\\0.9.7\\livecharts.wpf.0.9.7.nupkg.sha512",
+    "C:\\Users\\Fortune\\.nuget\\packages\\mahapps.metro.iconpacks.material\\4.11.0\\mahapps.metro.iconpacks.material.4.11.0.nupkg.sha512",
+    "C:\\Users\\Fortune\\.nuget\\packages\\npgsql\\6.0.4\\npgsql.6.0.4.nupkg.sha512",
+    "C:\\Users\\Fortune\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
   ],
   "logs": [
     {

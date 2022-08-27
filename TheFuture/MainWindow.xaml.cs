@@ -32,5 +32,29 @@ namespace TheFuture
                 this.DragMove();
             }
         }
+        private void btn_dashboard(object sender, RoutedEventArgs e)
+        {
+            PagesNavigation.Navigate(new System.Uri("Pages/Dashboard.xaml", UriKind.RelativeOrAbsolute));
+        }
+
+        private void btn_networth(object sender, RoutedEventArgs e)
+        {
+            PagesNavigation.Navigate(new System.Uri("Pages/Networth.xaml", UriKind.RelativeOrAbsolute));
+        }
+
+        private void btn_goal(object sender, RoutedEventArgs e)
+        {
+            PagesNavigation.Navigate(new System.Uri("Pages/Goal.xaml", UriKind.RelativeOrAbsolute));
+        }
+
+        private void btn_property(object sender, RoutedEventArgs e)
+        {
+            PagesNavigation.Navigate(new System.Uri("Pages/Property.xaml", UriKind.RelativeOrAbsolute));
+        }
+
+        private void btn_donation(object sender, RoutedEventArgs e)
+        {
+            PagesNavigation.Navigate(new System.Uri("Pages/Donation.xaml", UriKind.RelativeOrAbsolute));
+        }
     }
 }

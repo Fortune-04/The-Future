@@ -10,11 +10,11 @@ none
 false
 TRACE;DEBUG;NET;NET6_0;NETCOREAPP
 D:\Education\C#\TheFutureV2.0\TheFuture\TheFuture\App.xaml
-2-1869267605
+8-409632772
 
-6-1821041011
-2062036365371
-MainWindow.xaml;User Controls\InfoCard.xaml;
+13-1345938589
+209652582279
+MainWindow.xaml;Pages\Add.xaml;Pages\Dashboard.xaml;Pages\Donation.xaml;Pages\Goal.xaml;Pages\Networth.xaml;Pages\Property.xaml;User Controls\InfoCard.xaml;
 
-True
+False
 

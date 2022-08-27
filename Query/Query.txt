@@ -1,0 +1,65 @@
+--Insert function
+create or replace function st_insert(_names character varying, _values integer)
+returns int as
+$$
+begin
+	insert into networth(names, values)
+	values(_names,_values);
+	if found then
+		return 1;
+	else return 0;
+	end if;
+end
+$$
+language plpgsql;
+
+--Select function
+DROP FUNCTION st_select();
+create or replace function st_select()
+returns table
+(
+	_nwid int,
+	_total int
+)as
+$$
+begin
+	return query
+	select * from networth;
+end
+$$
+language plpgsql;
+
+--Update networth
+create or replace function st_update(_nwid int, _names character varying, _values int)
+returns int as
+$$
+begin
+	update networth
+	set
+		names = _names,
+		values = _values
+	where nwid = _nwid;
+	if found then
+		return 1;
+	else
+		return 0;
+	end if;
+end
+$$
+language plpgsql;
+
+--Delete function
+create or replace function st_delete(_nwid int)
+returns int as
+$$
+begin
+	delete from networth
+	where nwid = _nwid;
+	if found then
+		return 1;
+	else
+		return 0;
+	end if;
+end
+$$
+language plpgsql
